@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "command": "^0.0.5",
+    "dotenv": "^16.3.1",
+    "inquirer": "^9.2.7",
+    "insomnia": "^0.0.1",
+    "mysql2": "^3.4.5",
+    "sequelize": "^6.32.1"
+  }
+}
